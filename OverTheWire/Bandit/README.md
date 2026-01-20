@@ -1,5 +1,7 @@
 # OverTheWire – Bandit
 
+https://overthewire.org/wargames/bandit/
+
 This folder contains my write-up for the OverTheWire Bandit wargame.
 
 Bandit was my first serious exposure to Linux, SSH, permissions, networking,
