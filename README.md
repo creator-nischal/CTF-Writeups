@@ -5,9 +5,7 @@ I’m writing these mainly for myself — to remember how I approached problems,
 
 If it helps someone else along the way, that’s a bonus.
 
-This repo is not about dumping answers.
-
-It’s about learning, thinking, and improving step by step.
+This repo is not about dumping answers. It’s about learning, thinking, and improving step by step.
 
 I’ll keep adding more write-ups here as I continue solving new labs and challenges.
 
